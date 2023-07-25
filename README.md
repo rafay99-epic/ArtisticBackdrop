@@ -31,7 +31,7 @@ Welcome to the Artistic Backdrop repository! This repository contains a curated 
 
 1. Clone the Repository: Start by cloning this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/artistic-backdrop.git
+   https://github.com/rafay99-epic/ArtisticBackdrop.git
    ```
 
 2. Browse Categories: Explore the different categories in the repository and navigate to the specific folder of the category you are interested in.
