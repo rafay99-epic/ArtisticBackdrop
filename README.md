@@ -26,6 +26,15 @@ Welcome to the Artistic Backdrop repository! This repository contains a curated 
 5. **Gruvbox**: Experience the warm and retro-inspired color scheme of Gruvbox in these wallpapers, bringing a cozy and nostalgic feel to your screen.
 
 6. **Tokyo Night**: Immerse yourself in the mesmerizing cityscape of Tokyo at night through this collection of urban-themed wallpapers.
+  
+7. **Dragon Ball Z**: Immerse yourself in the epic battles and legendary transformations of Dragon Ball Z with these dynamic and powerful wallpapers.
+
+8. **Mac OS Big Sur**: Experience the sleek and stunning beauty of Mac OS Big Sur's iconic landscapes and designs through these captivating wallpapers.
+
+9.  **Midnight Tokyo**: Transport your screen to the mesmerizing neon-lit streets of Midnight Tokyo, capturing the vibrant energy and mystery of the city at night.
+
+10. **Hacker**: Uncover the enigmatic world of hacking and digital intrigue with these edgy and futuristic wallpapers that delve into the realm of ones and zeros.
+
 
 ## How to Use the Wallpapers
 
